@@ -20,7 +20,7 @@ const Drawerpolicy1Component = () => {
               onClick={() => handleClick(size)}
               key={size}
               m={4}
-            >{`Terms of Use`}</Button>
+              fontSize='20px' bg='#FB2176'color='#ffffff'>{`Terms of Use`}</Button>
           ))}
     
           <Drawer onClose={onClose} isOpen={isOpen} size={size}>
