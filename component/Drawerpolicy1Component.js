@@ -1,7 +1,6 @@
 import { Button, Drawer, DrawerBody, DrawerCloseButton, DrawerContent, DrawerHeader, DrawerOverlay, Stack, useDisclosure } from '@chakra-ui/react'
 import React from 'react'
 import Tos1Component from './pages/Tos1Component'
-import TosComponent from './pages/tosComponent'
 
 const Drawerpolicy1Component = () => {
     const [size, setSize] = React.useState('')
