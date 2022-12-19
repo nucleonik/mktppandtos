@@ -16,12 +16,12 @@ const PpComponent = () => {
         </Heading>
         <Text color='#7A86A1'>
         We collect information about you when you use our web application, including the following:
-Personal information that you provide when you create an account or submit a form, such as your name, email address, and company information.
-Information about your use of our web application, such as the pages you visit and the actions you take.
-Information about the device you use to access our web application, including the IP address, browser type, and operating system.
-Information about the performance of the advertisements that are run through our web application, including impressions, clicks, and conversions.
-How We Use Your Information.
-We use the information we collect to provide and improve our web application, to communicate with you, and to personalize your experience. We may also use your information to send you promotional messages or to display targeted advertisements.
+        Personal information that you provide when you create an account or submit a form, such as your name, email address, and company information.
+        Information about your use of our web application, such as the pages you visit and the actions you take.
+        Information about the device you use to access our web application, including the IP address, browser type, and operating system.
+        Information about the performance of the advertisements that are run through our web application, including impressions, clicks, and conversions.
+        How We Use Your Information.
+        We use the information we collect to provide and improve our web application, to communicate with you, and to personalize your experience. We may also use your information to send you promotional messages or to display targeted advertisements.
         </Text>
         <Heading fontSize="lg" color='#FB2176'>
         Sharing Your Information.    
