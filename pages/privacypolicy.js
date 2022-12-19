@@ -1,10 +1,8 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
-import PpComponent from '../component/pages/PpComponent'
-import { Link } from '@chakra-ui/react'
 import IndexComponent from '../component/pages/IndexComponent'
+import PpComponent from '../component/pages/PpComponent'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -19,7 +17,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         
-        <IndexComponent/>
+        <PpComponent/>
         
       </main>
     </>
